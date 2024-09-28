@@ -27,7 +27,4 @@ The electronic voting system utilizes the LPC2148 microcontroller to facilitate 
 - Push Buttons
 - Resistors and Wiring
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
